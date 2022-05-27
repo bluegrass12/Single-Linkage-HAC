@@ -305,11 +305,3 @@ if __name__ == '__main__':
 
     np.save('Z', Z)
     imshow_hac(Z)
-
-
-# TODO:
-# style, comment, headers
-# what's needed for GITHUB? readme.txt? what else?
-# upload to github (make github?)
-# link github to linkedin
-# done!
