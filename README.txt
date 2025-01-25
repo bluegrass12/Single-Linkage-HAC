@@ -1,7 +1,6 @@
 SingleLinkageHAC: Implements Single Linkage Algorithm for Hierarchical Agglomerative Clustering of a dataset
 
-This module has a similar functionality to Scipy's Linkage module, clustering data using the Single Linkage algorithm: each step, combine closest elements 
-into a single cluster.  Tiebreaking is done by choosing the pair of vectors with smaller indices in the distance matrix (i.e. the pair found first). This is from where variations from Scipy's Linkage module will arise.  
+This module has a similar functionality to Scipy's Linkage module, clustering data using the Single Linkage algorithm: each step, combine closest elements into a single cluster.  Tiebreaking is done by choosing the pair of vectors with smaller indices in the distance matrix (i.e. the pair found first). This is from where variations from Scipy's Linkage module will arise.  
 
 Input: 
 - CSV file 
